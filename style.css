@@ -84,3 +84,12 @@ footer {
 footer p {
     padding-bottom: 2.5vh;
 }
+
+footer a {
+    text-decoration: none;
+    color: black;
+}
+
+footer a:hover {
+    color: #264775;
+}
