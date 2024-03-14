@@ -40,13 +40,12 @@ header p {
 
 header section {
     font-family: var(--fonte2);
-    padding: 1vh 1vw 1vh 1vw;
-
-    word-spacing: 1.3vh;
 }
 
 header section a {
-    text-decoration: none
+    text-decoration: none;
+    padding: 10% 1vw 1vh 1vw;
+    word-spacing: 1.3vh;
 }
 
 header section a:hover {
