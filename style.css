@@ -18,11 +18,11 @@
 
 header {
     background-color: #E9AD63;
-    height: 20vh;
+    height: 20%;
 }
 
 header h1, p{
-    padding-top: 2vh;
+    padding-top: 2%;
     font-family: var(--fonte2);
 }
 
@@ -55,8 +55,8 @@ header section a:hover {
 
 main {
     text-align: justify;
-    padding-left: 2vw;
-    padding-right: 2vw;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 main h2 {
